@@ -1,0 +1,1 @@
+.App{display:flex;justify-content:center;margin-top:33vh}.drum-pads{display:grid;grid-template-columns:1fr 1fr 1fr}.drum-pad{border:1px solid black;width:100px;height:100px;display:flex;justify-content:center;align-items:center}:root{font-family:Inter,system-ui,Avenir,Helvetica,Arial,sans-serif;line-height:1.5;font-weight:400}
